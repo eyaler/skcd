@@ -2,7 +2,7 @@
 
 # skcd
 
-## scikit-xkcd
+### [scikit-xkcd]
 
 #### Automagic stick-figure animation
 
@@ -10,7 +10,7 @@
 
 Made at [Stochastic Labs](http://stochasticlabs.org)
 
-<br><br>
+<br><br><br>
 Powered by:
 <table align="center">
 <tr align="center">
