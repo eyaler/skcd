@@ -13,8 +13,8 @@ Made at [Stochastic Labs](http://stochasticlabs.org)
 <br><br>
 Powered by:
 <table align="center">
-<tr align="center">
-<td style="border:0">
+<tr align="center" style="border:0;border-collapse:collapse">
+<td>
 <a href="https://xkcd.com"><figure><img src="https://user-images.githubusercontent.com/4436747/186593350-002fdcac-70dd-4237-bc01-c0743677a0b0.png" alt="xkcd" height="128"><br><br><figcaption>xkcd</figcaption></figure></a>
 </td>
 <td>
@@ -28,5 +28,6 @@ Powered by:
 </td>
 <td>
 <a href="https://imaginarysoundscape.net"><figure><img src="https://user-images.githubusercontent.com/4436747/186593722-06f0d51c-aecc-408e-9433-8d274eaf3e8a.png" alt="Imaginary Soundscape" height="128"><br><br><figcaption>Imaginary Soundscape</figcaption></figure></a>
+</td>
 </tr>
 </table>
