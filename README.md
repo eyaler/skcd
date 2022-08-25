@@ -10,6 +10,8 @@
 
 Made at [Stochastic Labs](http://stochasticlabs.org)
 
+![image](https://user-images.githubusercontent.com/4436747/186743937-9f4d2a02-f5ae-4273-a225-e86973ace3d8.png)
+
 <br><br><br>
 Powered by:
 <table align="center">
