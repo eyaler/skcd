@@ -15,7 +15,7 @@ Powered by:
 <table align="center">
 <tr align="center">
 <td>
-<a href="https://xkcd.com"><figure><img src="https://user-images.githubusercontent.com/4436747/186593350-002fdcac-70dd-4237-bc01-c0743677a0b0.png" alt="xkcd" height="128"><br><br><figcaption>xkcd</figcaption></figure></a>
+<a href="https://xkcd.com"><figure><img src="https://user-images.githubusercontent.com/4436747/186625256-6f759c3a-d19d-4d88-be1f-cab4a67513cd.png" alt="xkcd" height="128"><br><br><figcaption>xkcd</figcaption></figure></a>
 </td>
 <td>
 <a href="https://github.com/danforthcenter/plantcv"><figure><img src="https://user-images.githubusercontent.com/4436747/186595109-5d5cde8d-4801-4ebe-bbe7-e7167ab59acf.png" alt="PlantCV" height="128"><br><br><figcaption>PlantCV</figcaption></figure></a>
