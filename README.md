@@ -14,7 +14,7 @@ Made at [Stochastic Labs](http://stochasticlabs.org)
 Powered by:
 <table align="center">
 <tr align="center">
-<td>
+<td style="border:0">
 <a href="https://xkcd.com"><figure><img src="https://user-images.githubusercontent.com/4436747/186593350-002fdcac-70dd-4237-bc01-c0743677a0b0.png" alt="xkcd" height="128"><br><br><figcaption>xkcd</figcaption></figure></a>
 </td>
 <td>
