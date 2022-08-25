@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/4436747/186605404-385dd5fd-45fb-471a-8200-b19c13926928.png" alt="skcd" align="left" height="320">
+
 # skcd
 
 ## scikit-xkcd
@@ -8,8 +10,8 @@
 
 Made at [Stochastic Labs](http://stochasticlabs.org)
 
+<br><br>
 Powered by:
-
 <table align="center">
 <tr align="center">
 <td>
